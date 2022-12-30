@@ -1,3 +1,7 @@
+<div width="200px" align="center">
+<img src="https://github.com/Dv1101/Dv1101/blob/main/giphy.gif" width="400px">
+</div>
+
 <h1 align="center">Hi 👋, I'm Dhruv Varia</h1>
 <h3 align="center">A passionate CSE Student from India</h3>
 
