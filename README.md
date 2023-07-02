@@ -1,4 +1,10 @@
 <div width="200px" align="center">
+<p>New Portfolio is LIVE on Microsoft AZURE Cloud !!!</p>
+  <a href="https://dhruvvaria.azurewebsites.net/">Click Here</a>
+  <hr>
+</div>
+
+<div width="200px" align="center">
 <img src="https://github.com/Dv1101/Dv1101/blob/main/giphy.gif" width="400px">
 </div>
 
