@@ -1,6 +1,6 @@
 <div width="200px" align="center">
 <p>New Portfolio is LIVE on Microsoft AZURE Cloud !!!</p>
-  <a href="https://dhruvvaria.azurewebsites.net/">Click Here</a>
+  <a href="https://dv1101.github.io/">Click Here</a>
   <hr>
 </div>
 
