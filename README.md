@@ -21,8 +21,6 @@
 
 - 💬 Ask me about **Any core skills**
 
-- ⚡ Fun fact **I was a Mechanical Engineer with Descent Job**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/dhruv-varia-50b74b24a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhruv-varia-50b74b24a" height="30" width="40" /></a>
